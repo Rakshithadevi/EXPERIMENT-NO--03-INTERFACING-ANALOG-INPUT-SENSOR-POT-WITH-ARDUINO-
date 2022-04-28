@@ -102,6 +102,8 @@ if(potMeasure>=450)
 **
 **Simulation output:** 
 **
+![image](https://user-images.githubusercontent.com/94165326/165758751-6a229023-820b-47c5-ba27-2a28abc50d4e.png)
+
 
 
 
