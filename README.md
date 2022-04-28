@@ -104,8 +104,6 @@ if(potMeasure>=450)
 **
 
 
-[My image](username.github.com/repository/img/image.jpg)
-
 
 
 
